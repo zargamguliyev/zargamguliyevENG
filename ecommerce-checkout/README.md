@@ -84,5 +84,16 @@ BPMN
 
 ## TO-BE BPMN Process
 
-![AS-IS BPMN](diagrams/to-be-diagram.drawio.png)
+![TO-BE BPMN](diagrams/to-be-diagram.drawio.png)
 
+---
+
+## CLASS DIAGRAM
+
+![CLASS DIAGRAM](diagrams/class-diagram.drawio.png)
+
+---
+
+## OBJECT DIAGRAM
+
+![OBJECT DIAGRAM](diagrams/object-diagram.drawio.png)
