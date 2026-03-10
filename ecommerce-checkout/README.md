@@ -66,7 +66,7 @@ Simplified checkout process:
 - Lo-Fi interface prototype
 
 ---
-
+![BPMN](diagrams/as-is-bpmn.png)
 ## Tools
 
 Miro  
