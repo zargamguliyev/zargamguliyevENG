@@ -76,3 +76,6 @@ BPMN
 
 ---
 
+## AS-IS BPMN Process
+
+![AS-IS BPMN](as-is-bpmn.png)
