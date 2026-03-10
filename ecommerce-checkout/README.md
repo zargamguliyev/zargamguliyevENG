@@ -61,6 +61,7 @@ Simplified checkout process:
 ## Artifacts
 
 - BPMN AS-IS process
+![BPMN](diagrams/as-is-bpmn.png)
 - BPMN TO-BE process
 - User Flow diagram
 - Lo-Fi interface prototype
@@ -73,4 +74,6 @@ Miro
 Draw.io  
 Figma  
 BPMN
-![BPMN](diagrams/as-is-bpmn.png)
+
+---
+
