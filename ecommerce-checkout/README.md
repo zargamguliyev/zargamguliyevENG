@@ -97,3 +97,13 @@ BPMN
 ## OBJECT DIAGRAM
 
 ![OBJECT DIAGRAM](diagrams/object-diagram.drawio.png)
+
+---
+
+## Prototype
+
+Figma prototype:
+https://www.figma.com/design/mEttQqVuK5qSnQFZGPJRV9/Ruslan-Kuliyevvv-s-team-library?node-id=0-1&t=lWTXDN3gUAVZVGN3-1
+
+---
+
