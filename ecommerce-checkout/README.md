@@ -61,13 +61,14 @@ Simplified checkout process:
 ## Artifacts
 
 - BPMN AS-IS process
-![BPMN](diagrams/as-is-bpmn.png)
 - BPMN TO-BE process
 - User Flow diagram
 - Lo-Fi interface prototype
 
 ---
+## AS-IS BPMN Process
 
+![AS-IS BPMN](as-is-bpmn.png)
 ## Tools
 
 Miro  
