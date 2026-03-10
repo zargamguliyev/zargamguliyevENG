@@ -113,4 +113,8 @@ https://miro.com/app/board/uXjVJnl-Cqg=/?share_link_id=765060641053
 
 ---
 
+## Presentation
 
+https://docs.google.com/presentation/d/1z3UC3SuHwoZCUNpuFSfzhAa9LFClFuGbdtxGCF0tgDo/edit?usp=sharing
+
+---
