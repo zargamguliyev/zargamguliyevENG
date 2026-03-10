@@ -79,3 +79,10 @@ BPMN
 ## AS-IS BPMN Process
 
 ![AS-IS BPMN](diagrams/as-is-diagram.drawio.png)
+
+---
+
+## TO-BE BPMN Process
+
+![AS-IS BPMN](diagrams/to-be-diagram.drawio.png)
+
