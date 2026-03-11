@@ -112,7 +112,7 @@ Key activities:
 
 **Tools:** BPMN, User Flow, Miro  
 
-[View Project →](samokat-hackathn)
+[View Project →](samokat-hackaton)
 
 ---
 
