@@ -1,7 +1,5 @@
-# Hello 👋 I'm Zargam Guliyev
 Business Analyst Portfolio
-
-Hello! My name is **Zargam Guliyev**.
+# Hello 👋 I'm Zargam Guliyev
 
 I am a **Business Analyst** specializing in business process analysis, requirements engineering, and product feature design.
 
