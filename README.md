@@ -41,7 +41,7 @@ UML
 
 # Portfolio Projects
 
-## 1. ![Customer Support Process Optimization (Bank)](zargamguliyev/banking-support-optimization)
+## 1. [Customer Support Process Optimization (Bank)](zargamguliyev/banking-support-optimization)
 
 Business analysis project focused on improving the customer support process of a regional bank.
 
