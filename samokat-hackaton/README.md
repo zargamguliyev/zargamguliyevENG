@@ -77,7 +77,7 @@ Miro
 
 ## TO-BE BPMN Process
 
-![TO-BE BPMN](diagrams/to-be-diagram.drawio.png)
+![TO-BE BPMN](documents/to-be-diagram.drawio.png)
 
 ---
 
