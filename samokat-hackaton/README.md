@@ -60,8 +60,8 @@ Improved CRM/PMS functionality:
 
 - BPMN process diagrams
 - Use Case scenarios
-- Functional requirements specification
-- System interaction diagrams
+- Technical specification
+- Lo-Fi prototype
 
 ---
 
