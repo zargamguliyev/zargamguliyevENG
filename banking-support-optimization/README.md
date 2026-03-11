@@ -180,6 +180,12 @@ The proposed solution allows the bank to:
 
 ---
 
+## TO-BE BPMN Process
+
+![AS-IS BPMN](diagrams/TO-BE-BPMN.drawio.png)
+
+---
+
 # Author
 
 Business Analyst Portfolio Project  
