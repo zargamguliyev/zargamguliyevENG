@@ -43,7 +43,7 @@ UML
 
 # Portfolio Projects
 
-## 1. [Customer Support Process Optimization (Bank)]([https://github.com/USERNAME/bank-support-optimization](https://github.com/zargamguliyev/zargam-guliyev/blob/main/banking-support-optimization/README.md))
+## 1. [Customer Support Process Optimization (Bank)](https://github.com/USERNAME/bank-support-optimization](https://github.com/zargamguliyev/zargam-guliyev/blob/main/banking-support-optimization/README.md)
 
 Business analysis project focused on improving the customer support process of a regional bank.
 
@@ -56,7 +56,7 @@ Key activities:
 
 **Tools:** BPMN, Miro, Draw.io  
 
-[View Project →]([https://github.com/USERNAME/bank-support-optimization](https://github.com/zargamguliyev/zargam-guliyev/blob/main/banking-support-optimization/README.md))
+[View Project →](https://github.com/USERNAME/bank-support-optimization](https://github.com/zargamguliyev/zargam-guliyev/blob/main/banking-support-optimization/README.md)
 
 ---
 
