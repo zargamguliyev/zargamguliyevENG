@@ -1,4 +1,4 @@
-# Zargam Guliyev
+# Hello 👋 I'm Zargam Guliyev
 Business Analyst Portfolio
 
 Hello! My name is **Zargam Guliyev**.
