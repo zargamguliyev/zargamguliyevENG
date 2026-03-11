@@ -41,7 +41,7 @@ UML
 
 # Portfolio Projects
 
-## 1. [Customer Support Process Optimization (Bank)](zargamguliyev/tree/main/banking-support-optimization)
+## 1. [Customer Support Process Optimization (Bank)](zargamguliyev/banking-support-optimization)
 
 Business analysis project focused on improving the customer support process of a regional bank.
 
@@ -58,7 +58,7 @@ Key activities:
 
 ---
 
-## 2. [E-commerce Checkout Optimization](https://github.com/zargam-guliyev/ecommerce-checkout)
+## 2. [E-commerce Checkout Optimization](https://github.com/zargamguliyev/ecommerce-checkout)
 
 Business analysis project focused on improving the checkout process of an e-commerce platform.
 
@@ -77,7 +77,7 @@ Key activities:
 
 ---
 
-## 3. [Laundry Logistics Automation (Oasis Retreats)](https://github.com/zargamguliyev/laundry-logistics-automation)
+## 3. [Laundry Logistics Automation (Oasis Retreats)](https://github.com/zargamguliyev/laundry-logistics-optimization)
 
 Business analysis project focused on improving logistics processes between hotels and a centralized laundry facility.
 
@@ -93,11 +93,11 @@ Key activities:
 
 **Tools:** UML, Draw.io, Excel  
 
-[View Project →](https://github.com/USERNAME/laundry-logistics-automation)
+[View Project →](https://github.com/zargamguliyev/laundry-logistics-optimization)
 
 ---
 
-## 4. [Samokat Hackathon – Recipe Recommendation Feature](https://github.com/USERNAME/samokat-hackathon-feature)
+## 4. [Samokat Hackathon – Recipe Recommendation Feature](https://github.com/zargamguliyev/samokat-hackaton)
 
 Product feature design project completed during a hackathon.
 
@@ -112,7 +112,7 @@ Key activities:
 
 **Tools:** BPMN, User Flow, Miro  
 
-[View Project →](https://github.com/USERNAME/samokat-hackathon-feature)
+[View Project →](https://github.com/zargamguliyev/samokat-hackathn)
 
 ---
 
