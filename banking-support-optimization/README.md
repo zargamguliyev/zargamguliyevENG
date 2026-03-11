@@ -176,7 +176,7 @@ The proposed solution allows the bank to:
 
 ## AS-IS BPMN Process
 
-![AS-IS BPMN](diagrams/as-is-bpmn.drawio.png)
+![AS-IS BPMN](diagrams/AS-IS-BPMN.drawio.png)
 
 ---
 
