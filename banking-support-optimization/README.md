@@ -148,7 +148,6 @@ This repository includes the following artifacts:
 - TO-BE BPMN model
 - User Story Map
 - Lo-Fi prototype
-- project presentation
 
 ---
 
