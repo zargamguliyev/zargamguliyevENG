@@ -54,7 +54,7 @@ Key activities:
 
 **Tools:** BPMN, Miro, Draw.io  
 
-[View Project →[Customer Support Process Optimization (Bank)](zargamguliyev/banking-support-optimization)
+[View Project →](zargamguliyev/banking-support-optimization)
 
 ---
 
