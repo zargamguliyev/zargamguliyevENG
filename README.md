@@ -54,11 +54,11 @@ Key activities:
 
 **Tools:** BPMN, Miro, Draw.io  
 
-[View Project →](zargamguliyev/banking-support-optimization)
+[View Project →](banking-support-optimization)
 
 ---
 
-## 2. [E-commerce Checkout Optimization](https://github.com/zargamguliyev/ecommerce-checkout)
+## 2. [E-commerce Checkout Optimization](ecommerce-checkout)
 
 Business analysis project focused on improving the checkout process of an e-commerce platform.
 
@@ -73,11 +73,11 @@ Key activities:
 
 **Tools:** BPMN, Miro, Draw.io, Figma  
 
-[View Project →](https://github.com/zargamguliyev/ecommerce-checkout)
+[View Project →](ecommerce-checkout)
 
 ---
 
-## 3. [Laundry Logistics Automation (Oasis Retreats)](https://github.com/zargamguliyev/laundry-logistics-optimization)
+## 3. [Laundry Logistics Automation (Oasis Retreats)](laundry-logistics-optimization)
 
 Business analysis project focused on improving logistics processes between hotels and a centralized laundry facility.
 
@@ -93,11 +93,11 @@ Key activities:
 
 **Tools:** UML, Draw.io, Excel  
 
-[View Project →](https://github.com/zargamguliyev/laundry-logistics-optimization)
+[View Project →](laundry-logistics-optimization)
 
 ---
 
-## 4. [Samokat Hackathon – Recipe Recommendation Feature](https://github.com/zargamguliyev/samokat-hackaton)
+## 4. [Samokat Hackathon – Recipe Recommendation Feature](samokat-hackaton)
 
 Product feature design project completed during a hackathon.
 
@@ -112,7 +112,7 @@ Key activities:
 
 **Tools:** BPMN, User Flow, Miro  
 
-[View Project →](https://github.com/zargamguliyev/samokat-hackathn)
+[View Project →](samokat-hackathn)
 
 ---
 
