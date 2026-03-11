@@ -71,3 +71,22 @@ BPMN
 Use Case  
 Draw.io  
 Miro
+
+---
+
+## TO-BE BPMN Process
+
+![TO-BE BPMN](documents/to-be-diagram.drawio.png)
+
+---
+
+## Lo-Fi Prototype
+
+Prototype: https://miro.com/app/board/uXjVGzNinE8=/?share_link_id=512379998099
+
+---
+
+# Author
+
+Business Analyst Portfolio Project  
+Author: Zargam Guliyev
