@@ -54,7 +54,7 @@ Key activities:
 
 **Tools:** BPMN, Miro, Draw.io  
 
-[View Project →](https://github.com/zargamguliyev/ecommerce-checkout)
+[View Project →](Bank)](zargamguliyev/banking-support-optimization)
 
 ---
 
@@ -73,11 +73,11 @@ Key activities:
 
 **Tools:** BPMN, Miro, Draw.io, Figma  
 
-[View Project →](https://github.com/zargam-guliyev/ecommerce-checkout)
+[View Project →](https://github.com/zargamguliyev/ecommerce-checkout)
 
 ---
 
-## 3. [Laundry Logistics Automation (Oasis Retreats)](https://github.com/USERNAME/laundry-logistics-automation)
+## 3. [Laundry Logistics Automation (Oasis Retreats)](https://github.com/zargamguliyev/laundry-logistics-automation)
 
 Business analysis project focused on improving logistics processes between hotels and a centralized laundry facility.
 
