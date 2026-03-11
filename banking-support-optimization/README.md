@@ -5,7 +5,7 @@
 This project focuses on analyzing and optimizing the customer support process of a regional bank.
 
 The bank conducted a customer satisfaction survey which revealed that the average satisfaction score with the support service was **6.3 out of 10**.  
-The business goal was to increase this показатель to **8 out of 10** by improving the customer support process and introducing automated feedback collection.
+The business goal was to increase this score to **8 out of 10** by improving the customer support process and introducing automated feedback collection.
 
 The project includes analysis of the current process, identification of bottlenecks, and design of an improved support workflow.
 
