@@ -186,6 +186,18 @@ The proposed solution allows the bank to:
 
 ---
 
+## User Story Map
+
+USM: https://miro.com/app/board/uXjVGz_e8qo=/?share_link_id=532323754688
+
+---
+
+## Lo-Fi Prototype
+
+Prototype: https://miro.com/app/board/uXjVGz_zRcA=/?share_link_id=802484134946
+
+---
+
 # Author
 
 Business Analyst Portfolio Project  
