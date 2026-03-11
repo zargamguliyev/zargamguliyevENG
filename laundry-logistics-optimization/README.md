@@ -142,7 +142,7 @@ The proposed solution allows the hotel chain to:
 
 ## Class Diagram
 
-![Class Diagram](diagrams/class-diagram.drawio.png)
+![Class Diagram](diagrams/class-diagram.png)
 
 ---
 
