@@ -181,7 +181,7 @@ The proposed solution allows the bank to:
 
 ## TO-BE BPMN Process
 
-![AS-IS BPMN](diagrams/TO-BE-BPMN.drawio.png)
+![TO-BE BPMN](diagrams/TO-BE-BPMN.drawio.png)
 
 ---
 
