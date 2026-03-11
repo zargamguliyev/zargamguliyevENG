@@ -1,76 +1,79 @@
-# SPA CRM / PMS System
+# Samokat Hackathon – Recipe Recommendation Feature
 
 ## Project Overview
 
-Business analysis project for designing CRM and PMS system improvements for a SPA hotel.
+Hackathon project focused on designing a new product feature for the grocery delivery application.
 
-The goal was to improve client management, booking processes and internal operations.
+The objective was to increase user engagement with recipe content.
 
 ---
 
 ## Problem
 
-Existing systems do not fully support SPA-specific processes:
+Users rarely interact with recipes inside the application.
 
-- client booking management
-- service scheduling
-- reporting for SPA services
+Issues identified:
 
-This creates inefficiencies in daily operations.
+- users prefer external recipe services
+- current "stories" format does not integrate with the main user journey
+- recipe content is underused
 
 ---
 
 ## Business Goal
 
-Improve service management and increase operational efficiency.
+Increase engagement with recipes and improve user retention.
 
 ---
 
-## AS-IS Process
+## Hypothesis
 
-Current workflow:
-
-1. Client requests booking
-2. Administrator checks availability
-3. Booking recorded manually
-4. Staff assigned to service
-5. Service completed
-6. Payment recorded
-
-Problems identified:
-
-- manual booking management
-- lack of automated reporting
-- limited visibility of resource availability
+If recipe suggestions are integrated into the cart and based on selected products, users will interact with them more frequently.
 
 ---
 
 ## TO-BE Solution
 
-Improved CRM/PMS functionality:
+Introduce contextual recipe recommendations inside the cart.
 
-- automated booking management
-- centralized client database
-- service scheduling system
-- improved reporting
+System behaviour:
+
+- analyze products added to the cart
+- match ingredients with recipe database
+- suggest at least 3 relevant recipes
+- show missing ingredients
+- allow adding missing ingredients to the cart
+
+---
+
+## Functional Requirements
+
+System must:
+
+1. analyze cart contents when products change
+2. match ingredients with recipe database
+3. rank recipes by ingredient match
+4. show recommended recipes
+5. support adding missing ingredients to cart
 
 ---
 
 ## Artifacts
 
-- BPMN process diagrams
-- Use Case scenarios
+- BPMN process model
+- User flow diagram
+- Lo-Fi prototypes
+- Product concept presentation
 - Technical specification
-- Lo-Fi prototype
 
 ---
 
 ## Tools
 
 BPMN  
-Use Case  
-Draw.io  
+User Flow  
 Miro
+Draw.io 
 
 ---
 
