@@ -43,7 +43,7 @@ UML
 
 # Portfolio Projects
 
-## 1. [Customer Support Process Optimization (Bank)](https://github.com/zargamguliyev/ecommerce-checkout)
+## 1. [Customer Support Process Optimization (Bank)](https://github.com/zargam-guliyev/ecommerce-checkout)
 
 Business analysis project focused on improving the customer support process of a regional bank.
 
@@ -56,7 +56,7 @@ Key activities:
 
 **Tools:** BPMN, Miro, Draw.io  
 
-[View Project →](https://github.com/zargamguliyev/ecommerce-checkout)
+[View Project →](https://github.com/zargam-guliyev/ecommerce-checkout)
 
 ---
 
