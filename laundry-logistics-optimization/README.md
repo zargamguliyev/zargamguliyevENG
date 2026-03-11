@@ -140,6 +140,18 @@ The proposed solution allows the hotel chain to:
 
 ---
 
+## Class Diagram
+
+![Class Diagram](diagrams/class-diagram.drawio.png)
+
+---
+
+## Object Diagram
+
+![Object Diagram](diagrams/object-diagram.drawio.png)
+
+---
+
 # Author
 
 Business Analyst Portfolio Project  
