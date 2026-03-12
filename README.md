@@ -17,25 +17,25 @@ This portfolio demonstrates my practical experience in:
 
 # Core Skills
 
-Business Analysis  
-Business Process Modeling (BPMN)  
-AS-IS / TO-BE Process Analysis  
-Requirements Engineering  
-Use Cases / User Stories  
-UML Modeling  
-Stakeholder Analysis  
-Product Feature Design  
+* Business Analysis  
+* Business Process Modeling (BPMN)  
+* AS-IS / TO-BE Process Analysis  
+* Requirements Engineering  
+* Use Cases / User Stories  
+* UML Modeling  
+* Stakeholder Analysis  
+* Product Feature Design  
 
 ---
 
 # Tools
 
-Miro  
-Draw.io  
-Figma  
-Excel  
-BPMN  
-UML  
+* Miro  
+* Draw.io  
+* Figma  
+* Excel  
+* BPMN  
+* UML  
 
 ---
 
