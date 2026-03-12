@@ -54,7 +54,7 @@ Key activities:
 
 **Tools:** BPMN, Miro, Draw.io  
 
-[View Project →](banking-support-optimization)
+[View Project →](banking-support-optimization/README.md)
 
 ---
 
